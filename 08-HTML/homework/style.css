@@ -1,0 +1,21 @@
+
+            h1 {
+                color: brown;
+            }
+            img{
+                width: 400px;
+            }
+            #thirdDiv{
+                height: 600;
+                width: 500;
+                background-color: coral;
+                padding: 50px;
+                border: 5px;
+                border-color: rgb(250, 85, 9);
+                border-style: dashed;
+            }
+            #spanId{
+                font-size: 18px;
+                margin: 50px;
+            }
+        
